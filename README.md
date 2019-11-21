@@ -6,3 +6,6 @@
 * Add basic styling to the page e.g. fonts, colors, borders etc. 
 
 ![mockup-image](/image/reference-image.png)
+
+----------------------
+Just in case you lose the link: https://github.com/wi-fighters/35-uib-boxmodel-semantics-SimonSchoetz
