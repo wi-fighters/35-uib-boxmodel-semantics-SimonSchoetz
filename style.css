@@ -1,1 +1,8 @@
 /* Basic style for this exercise */
+html {
+    scroll-behavior: smooth;
+    font-family: 'Rubik', sans-serif;
+}
+section {
+    padding-bottom: 50vh;
+}
