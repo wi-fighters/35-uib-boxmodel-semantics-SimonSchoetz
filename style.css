@@ -2,7 +2,50 @@
 html {
     scroll-behavior: smooth;
     font-family: 'Rubik', sans-serif;
+    margin: 0% 25%;
+    color: rgb(25, 25, 25);
+    background-color: rgb(225, 225, 225);
 }
 section {
     padding-bottom: 50vh;
+}
+
+h1 {
+    font-size: 2.8rem;
+    text-align: justify;
+}
+/***************
+Nav
+***************/
+nav {
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color:rgb(25, 25, 25);
+
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0px;
+    font-size: 1.2rem;
+}
+
+nav ul li {
+    padding-right: 1em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(25, 25, 25);
+        padding: 0px;
+}
+
+nav ul li a:hover {
+    color: rgb(175, 175, 175);
+}
+
+nav ul li a:active {
+    color: rgb(0, 0, 0);
+    font-size: 0.7rem;
 }
